@@ -1,0 +1,42 @@
+.jumbotron {
+    background-image: url(img/Maps.png);
+    background-size: cover;
+    height: 680px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.jumbotron .display-4 {
+    color: cornsilk;
+    margin-top: 30px;
+}
+
+.jumbotron p {
+    color: cornsilk;
+    font-size: 25px;
+
+}
+
+.dropdown-menu {
+    background-color: rgba(43, 42, 42, 0.329);
+}
+
+.jumbotron .btn {
+    background-color: rgb(228, 157, 91);
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+
+}
+
+.jumbotron hr {
+    border-color: rgb(228, 157, 91);
+    border-width: 3px;
+
+}
+
+.jumbotron .btn img {
+    height: 60px;
+    width: 60px;
+    margin-left: -5.7px;
+}
